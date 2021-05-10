@@ -1,2 +1,2 @@
-# Exerc-cios
+# Exercicios
 Primeiros exercícios de criação de commit.
